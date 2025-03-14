@@ -1,0 +1,12 @@
+{
+  "name": "express-cicd",
+  "version": "1.0.0",
+  "description": "A simple Node.js Express app for CI/CD demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
